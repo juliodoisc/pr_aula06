@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47bc62dc-00ee-4ef8-ab91-4f59df88dba7" name="Changes" comment="Create &quot;Main/Create/Reader/Copy Java Class&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="47bc62dc-00ee-4ef8-ab91-4f59df88dba7" name="Changes" comment="Commit 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +104,7 @@
       <updated>1659669783721</updated>
       <workItem from="1659669785250" duration="2459000" />
       <workItem from="1659715505833" duration="4153000" />
-      <workItem from="1659749158228" duration="5131000" />
+      <workItem from="1659749158228" duration="5459000" />
     </task>
     <task id="LOCAL-00001" summary="Create &quot;Main/Create/Reader/Copy Java Class&quot;">
       <created>1659751690349</created>
@@ -123,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659752237624</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit 2">
+      <created>1659754783272</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659754783272</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +138,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -142,6 +152,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create &quot;Main/Create/Reader/Copy Java Class&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create &quot;Main/Create/Reader/Copy Java Class&quot;" />
+    <MESSAGE value="Commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 2" />
   </component>
 </project>
